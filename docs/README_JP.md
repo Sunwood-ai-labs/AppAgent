@@ -1,4 +1,3 @@
-はい、下記の内容を自然な日本語に翻訳しました。
 
 # AppAgent
 
@@ -14,6 +13,12 @@
 [Bin Fu](https://openreview.net/profile?id=~BIN_FU2), [Gang Yu✦](https://www.skicyyu.org/)
 <br>
 (* 同等貢献, † プロジェクトリーダー, ✦ 責任著者)
+</div>
+
+<div align="center">
+
+ | [日本語](docs/README_JP.md) | [English](README.md) |
+
 </div>
 
 
